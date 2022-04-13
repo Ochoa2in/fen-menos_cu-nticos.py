@@ -1,2 +1,2 @@
-# fen-menos_cu-nticos.py
+# fenomenos_cuanticos.py
 Esta será nuestra primer aplicación 
